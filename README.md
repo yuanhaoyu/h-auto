@@ -8,12 +8,13 @@ h-auto是一个初始化rem的js组件，仅仅2步就能上手使用👨‍🍳
 - 请手动为你的body设置一个合适的<code>font-size</code>默认值。
 
 ```javascript
-<script src="https://ok15hqd91.bkt.clouddn.com/h-auto.js"></script>
+// 该线上地址只提供生产模式测试，线上模式请自己单独部署
+<script src="https://ok15hqd91.bkt.clouddn.com/houn/js/h-auto.js"></script>
 ```
 
 ## Usage
 
-h-auto的核心是麻瓜化（引入立即生效），所以你可以clone这个项目然后用script标签的形式引入或直接使用用上面提供的cdn。
+h-auto的核心是麻瓜化（引入立即生效），所以你可以clone这个项目然后用script标签的形式引入或直接使用用上面提供的线上（**为了https兼容，建议clone文件自己部署**）。
 
 为你的body设置一个合适的默认字体大小。
 
