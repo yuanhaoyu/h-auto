@@ -1,9 +1,9 @@
 (function (win, doc) {
-    // 对象检查
+    // object check
     if (!win.H_AUTO_CONFIG) {
         win.H_AUTO_CONFIG = {}
     }
-    // size 类型检查
+    // size check
     if (!win.H_AUTO_CONFIG.size) {
         win.H_AUTO_CONFIG.size = 100;
     } else {
@@ -12,7 +12,7 @@
             return false;
         }
     }
-    // important 类型检查
+    // important check
     if (win.H_AUTO_CONFIG.important === undefined) {
         win.H_AUTO_CONFIG.important = true;
     } else {
@@ -21,7 +21,7 @@
             return false;
         }
     }
-    // rotate 类型检查
+    // rotate check
     if (win.H_AUTO_CONFIG.rotate === undefined) {
         win.H_AUTO_CONFIG.rotate = true;
     } else {
