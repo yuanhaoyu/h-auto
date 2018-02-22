@@ -9,7 +9,7 @@ h-auto是一个初始化rem的js组件，仅仅2步就能上手使用👨‍🍳
 
 ```javascript
 // 该线上地址只提供生产模式测试，线上模式请自己单独部署
-<script src="https://ok15hqd91.bkt.clouddn.com/houn/js/h-auto.js"></script>
+<script src="https://www.llamastudio.cn/static/js/h-auto.js"></script>
 ```
 
 ## Usage
